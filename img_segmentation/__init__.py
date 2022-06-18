@@ -1,4 +1,5 @@
-import models
-import datasets
-import utils
-import trainer
+
+import img_segmentation.datasets
+import img_segmentation.utils
+import img_segmentation.trainer
+import img_segmentation.models
